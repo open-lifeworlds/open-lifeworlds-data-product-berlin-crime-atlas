@@ -1,15 +1,15 @@
-[![Issues](https://img.shields.io/github/issues/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-crime-atlas)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-crime-atlas/issues)
+[![Issues](https://img.shields.io/github/issues/open-lifeworlds/open-lifeworlds-data-product-berlin-crime-atlas)](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-crime-atlas/issues)
 
 <br />
 <p align="center">
-  <a href="https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-crime-atlas">
+  <a href="https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-crime-atlas">
     <img src="logo-with-text.png" alt="Logo" style="height: 80px; ">
   </a>
 
-  <h1 align="center">Berlin LOR crime atlas</h1>
+  <h1 align="center">Berlin Crime Atlas</h1>
 
   <p align="center">
-    Data product combining Berlin LOR crime atlas data and geodata</a>
+    Data product combining Berlin crime atlas data and geodata</a>
   </p>
 </p>
 
@@ -66,7 +66,7 @@ uv run main.py
 
 ## Roadmap
 
-See the [open issues](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-lor-crime-atlas/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/open-lifeworlds/open-lifeworlds-data-product-berlin-crime-atlas/issues) for a list of proposed features (and known issues).
 
 ## License
 

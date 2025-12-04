@@ -1,14 +1,14 @@
 ---
 dataProductDescriptor: data-product-descriptor
 info:
-  fullyQualifiedName: urn:dpds:openlifeworlds:dataproducts:berlin-lor-crime-atlas:1.0
+  fullyQualifiedName: urn:dpds:openlifeworlds:dataproducts:berlin-crime-atlas:1.0
   name: Berlin LOR Crime Atlas
   version: '1.0'
   domain: domain
   owner:
     id: Open Lifeworlds
     name: Open Lifeworlds
-  id: berlin-lor-crime-atlas
+  id: berlin-crime-atlas
   entityType:
   displayName: Berlin LOR Crime Atlas
   description: Data products providing Berlin crime data on different LOR hierarchy levels
@@ -18,8 +18,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-crime-atlas-geojson
-      fullyQualifiedName: berlin-lor-crime-atlas-geojson
+      id: berlin-crime-atlas-geojson
+      fullyQualifiedName: berlin-crime-atlas-geojson
       entityType:
       name: ''
       version:
@@ -31,8 +31,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-crime-atlas-statistics
-      fullyQualifiedName: berlin-lor-crime-atlas-statistics
+      id: berlin-crime-atlas-statistics
+      fullyQualifiedName: berlin-crime-atlas-statistics
       entityType:
       name: ''
       version:
@@ -58,8 +58,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-crime-atlas-source-aligned
-      fullyQualifiedName: berlin-lor-crime-atlas-source-aligned
+      id: berlin-crime-atlas-source-aligned
+      fullyQualifiedName: berlin-crime-atlas-source-aligned
       entityType:
       name: ''
       version:

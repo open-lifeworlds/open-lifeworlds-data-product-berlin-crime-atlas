@@ -5,8 +5,8 @@
 
 ## Info
 
-* ID: berlin-lor-crime-atlas
-* fully qualified name: urn:dpds:openlifeworlds:dataproducts:berlin-lor-crime-atlas:1.0
+* ID: berlin-crime-atlas
+* fully qualified name: urn:dpds:openlifeworlds:dataproducts:berlin-crime-atlas:1.0
 * name: Berlin LOR Crime Atlas
 * version: 1.0
 * display name: Berlin LOR Crime Atlas
@@ -22,14 +22,14 @@
 ### Input Ports
 #### berlin-lor-geodata
 * fully qualified name: berlin-lor-geodata
-#### berlin-lor-crime-atlas-source-aligned
-* fully qualified name: berlin-lor-crime-atlas-source-aligned
+#### berlin-crime-atlas-source-aligned
+* fully qualified name: berlin-crime-atlas-source-aligned
 
 ### Output Ports
-#### berlin-lor-crime-atlas-geojson
-* fully qualified name: berlin-lor-crime-atlas-geojson
-#### berlin-lor-crime-atlas-statistics
-* fully qualified name: berlin-lor-crime-atlas-statistics
+#### berlin-crime-atlas-geojson
+* fully qualified name: berlin-crime-atlas-geojson
+#### berlin-crime-atlas-statistics
+* fully qualified name: berlin-crime-atlas-statistics
 
 
 ---
